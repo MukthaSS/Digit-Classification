@@ -25,7 +25,6 @@ You’ll explore how deep learning can be applied to image classification with i
 ### 🔹 CNN (Convolutional Neural Network)
 - Convolutional layers with ReLU + MaxPooling
 - Fully connected dense layers
--
 - Final softmax classification
 
 ---
